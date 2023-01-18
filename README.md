@@ -16,8 +16,8 @@ MTA:SA Freeroam Panel
 **Kıyafetler**
 **Görevler**
 **Yürüyüş Stilleri**
-**Dokunulmazlık**
-**Araç Koruma**
+**Bıçaklanmama**
+**Araç Hayalet**
 **Harita**
 **Araç Oluştur**
 **Tamir**
@@ -45,8 +45,8 @@ MTA:SA Freeroam Panel
 **clothes**
 **Tasks**
 **Walking Styles**
-**Immunity**
-**Vehicle Protection**
+**Not getting stabbed**
+**Vehicle Ghost**
 **Map**
 **Create Vehicle**
 **Fix**
