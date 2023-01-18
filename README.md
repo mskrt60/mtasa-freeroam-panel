@@ -1,5 +1,12 @@
-# mtasa-freeroam-panel
+# Mtasa-Freeroam-Panel
 MTA:SA Freeroam Oyuncu [Player] Panel
+
+NOT;
+**Önce MahLib'i aktif ediniz yoksa panel gelmez**
+
+**Script'de bi hata farkederseniz Stringer#6060 Discord'undan Ulaşabilirsiniz.**
+
+
 
 MTA:SA Freeroam Panel
 
@@ -23,6 +30,12 @@ MTA:SA Freeroam Panel
 Discord: Stringer#6060
 
 ----------ENGLISH----------
+
+IMMORTALITY;
+**Activate MahLib first, otherwise the panel will not come**
+
+**If you notice an error in the script, you can reach Stringer#6060 on Discord.**
+
 
 MTA:SA Freeroam Panel
 
