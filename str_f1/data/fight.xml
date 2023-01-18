@@ -1,0 +1,8 @@
+<catalog type="fightingstyle">
+<fightingstyle name="Standard" id="4" />
+<fightingstyle name="Boxing" id="5" />
+<fightingstyle name="Kungfu" id="6" />
+<fightingstyle name="KneeHead" id="7" />
+<fightingstyle name="GrabKick" id="15" />
+<fightingstyle name="Elbows" id="16" />
+</catalog>
