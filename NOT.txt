@@ -1,3 +1,9 @@
-Önce MahLib'i aktif ediniz yoksa panel gelmez
+Ã–nce MahLib'i aktif ediniz yoksa panel gelmez
 
-Script'de bi hata farkederseniz Stringer#6060 Discord'undan Ulaþabilirsiniz.
+Script'de bi hata farkederseniz Stringer#6060 Discord'undan UlaÅŸabilirsiniz.
+
+
+
+Activate MahLib first or the panel will not come
+
+If you notice an error in the script, you can reach Stringer#6060 on Discord.
